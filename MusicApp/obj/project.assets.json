@@ -3609,11 +3609,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego\\Desktop\\Musician\\MusicApp\\MusicApp.csproj",
+      "projectUniqueName": "C:\\Users\\diego\\Desktop\\C#playground\\MusicApp\\MusicApp.csproj",
       "projectName": "MusicApp",
-      "projectPath": "C:\\Users\\diego\\Desktop\\Musician\\MusicApp\\MusicApp.csproj",
+      "projectPath": "C:\\Users\\diego\\Desktop\\C#playground\\MusicApp\\MusicApp.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego\\Desktop\\Musician\\MusicApp\\obj\\",
+      "outputPath": "C:\\Users\\diego\\Desktop\\C#playground\\MusicApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3632,11 +3632,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\diego\\Desktop\\Musician\\Helpers\\Helpers.csproj": {
-              "projectPath": "C:\\Users\\diego\\Desktop\\Musician\\Helpers\\Helpers.csproj"
+            "C:\\Users\\diego\\Desktop\\C#playground\\Helpers\\Helpers.csproj": {
+              "projectPath": "C:\\Users\\diego\\Desktop\\C#playground\\Helpers\\Helpers.csproj"
             },
-            "C:\\Users\\diego\\Desktop\\Musician\\BlMusic\\BlMusic.csproj": {
-              "projectPath": "C:\\Users\\diego\\Desktop\\Musician\\BlMusic\\BlMusic.csproj"
+            "C:\\Users\\diego\\Desktop\\C#playground\\BlMusic\\BlMusic.csproj": {
+              "projectPath": "C:\\Users\\diego\\Desktop\\C#playground\\BlMusic\\BlMusic.csproj"
             }
           }
         }

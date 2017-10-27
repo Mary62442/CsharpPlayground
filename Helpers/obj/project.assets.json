@@ -3590,11 +3590,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego\\Desktop\\Musician\\Helpers\\Helpers.csproj",
+      "projectUniqueName": "C:\\Users\\diego\\Desktop\\C#playground\\Helpers\\Helpers.csproj",
       "projectName": "Helpers",
-      "projectPath": "C:\\Users\\diego\\Desktop\\Musician\\Helpers\\Helpers.csproj",
+      "projectPath": "C:\\Users\\diego\\Desktop\\C#playground\\Helpers\\Helpers.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego\\Desktop\\Musician\\Helpers\\obj\\",
+      "outputPath": "C:\\Users\\diego\\Desktop\\C#playground\\Helpers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3613,8 +3613,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\diego\\Desktop\\Musician\\BlMusic\\BlMusic.csproj": {
-              "projectPath": "C:\\Users\\diego\\Desktop\\Musician\\BlMusic\\BlMusic.csproj"
+            "C:\\Users\\diego\\Desktop\\C#playground\\BlMusic\\BlMusic.csproj": {
+              "projectPath": "C:\\Users\\diego\\Desktop\\C#playground\\BlMusic\\BlMusic.csproj"
             }
           }
         }

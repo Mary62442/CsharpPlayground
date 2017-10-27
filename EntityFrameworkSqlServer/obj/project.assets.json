@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego\\Desktop\\C#playground\\BlMusic\\BlMusic.csproj",
-      "projectName": "BlMusic",
-      "projectPath": "C:\\Users\\diego\\Desktop\\C#playground\\BlMusic\\BlMusic.csproj",
+      "projectUniqueName": "C:\\Users\\diego\\Desktop\\C#playground\\EntityFrameworkSqlServer\\EntityFrameworkSqlServer.csproj",
+      "projectName": "EntityFrameworkSqlServer",
+      "projectPath": "C:\\Users\\diego\\Desktop\\C#playground\\EntityFrameworkSqlServer\\EntityFrameworkSqlServer.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego\\Desktop\\C#playground\\BlMusic\\obj\\",
+      "outputPath": "C:\\Users\\diego\\Desktop\\C#playground\\EntityFrameworkSqlServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
