@@ -1,0 +1,39 @@
+{
+  "Name": "Diego",
+  "Surname": "Burlando",
+  "Nationality": "Italian",
+  "Location": "Genoa",
+  "Age": 55,
+  "Email": "diego@dmm888.com",
+  "Gender": 0,
+  "Instruments": [
+    {
+      "GuitarBrand": 1,
+      "GuitarType": 0,
+      "InstrumentName": "Guitar",
+      "InstrumentGroup": 1,
+      "IsAntiquity": false,
+      "InstrumentValue": 15230.55
+    },
+    {
+      "FluteBrand": 3,
+      "Material": 0,
+      "FluteType": 0,
+      "InstrumentName": "Flute",
+      "IsAntiquity": false,
+      "InstrumentGroup": 1,
+      "InstrumentValue": 23450.0
+    },
+    {
+      "PianoBrand": 0,
+      "PianoType": 0,
+      "InstrumentName": "Piano",
+      "IsAntiquity": true,
+      "InstrumentGroup": 1,
+      "InstrumentValue": 103324.0
+    }
+  ],
+  "Proficiency": "Advanced",
+  "YearsOfStudy": 27,
+  "MusicStyle": 1
+}

@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Musician\MusicApp\bin\Debug\netcoreapp2.0\MusicApp.deps.json
+C:\Users\Diego\Desktop\Musician\MusicApp\bin\Debug\netcoreapp2.0\MusicApp.runtimeconfig.json
+C:\Users\Diego\Desktop\Musician\MusicApp\bin\Debug\netcoreapp2.0\MusicApp.runtimeconfig.dev.json
+C:\Users\Diego\Desktop\Musician\MusicApp\bin\Debug\netcoreapp2.0\MusicApp.dll
+C:\Users\Diego\Desktop\Musician\MusicApp\bin\Debug\netcoreapp2.0\MusicApp.pdb
+C:\Users\Diego\Desktop\Musician\MusicApp\bin\Debug\netcoreapp2.0\BlMusic.dll
+C:\Users\Diego\Desktop\Musician\MusicApp\bin\Debug\netcoreapp2.0\Helpers.dll
+C:\Users\Diego\Desktop\Musician\MusicApp\bin\Debug\netcoreapp2.0\BlMusic.pdb
+C:\Users\Diego\Desktop\Musician\MusicApp\bin\Debug\netcoreapp2.0\Helpers.pdb
+C:\Users\Diego\Desktop\Musician\MusicApp\obj\Debug\netcoreapp2.0\MusicApp.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Musician\MusicApp\obj\Debug\netcoreapp2.0\MusicApp.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Musician\MusicApp\obj\Debug\netcoreapp2.0\MusicApp.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Musician\MusicApp\obj\Debug\netcoreapp2.0\MusicApp.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Musician\MusicApp\obj\Debug\netcoreapp2.0\MusicApp.dll
+C:\Users\Diego\Desktop\Musician\MusicApp\obj\Debug\netcoreapp2.0\MusicApp.pdb

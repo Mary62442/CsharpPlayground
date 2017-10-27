@@ -1,0 +1,11 @@
+C:\Users\Diego\Desktop\Musician\Helpers\bin\Debug\netcoreapp2.0\Helpers.deps.json
+C:\Users\Diego\Desktop\Musician\Helpers\bin\Debug\netcoreapp2.0\Helpers.dll
+C:\Users\Diego\Desktop\Musician\Helpers\bin\Debug\netcoreapp2.0\Helpers.pdb
+C:\Users\Diego\Desktop\Musician\Helpers\bin\Debug\netcoreapp2.0\BlMusic.dll
+C:\Users\Diego\Desktop\Musician\Helpers\bin\Debug\netcoreapp2.0\BlMusic.pdb
+C:\Users\Diego\Desktop\Musician\Helpers\obj\Debug\netcoreapp2.0\Helpers.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Musician\Helpers\obj\Debug\netcoreapp2.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Musician\Helpers\obj\Debug\netcoreapp2.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Musician\Helpers\obj\Debug\netcoreapp2.0\Helpers.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Musician\Helpers\obj\Debug\netcoreapp2.0\Helpers.dll
+C:\Users\Diego\Desktop\Musician\Helpers\obj\Debug\netcoreapp2.0\Helpers.pdb

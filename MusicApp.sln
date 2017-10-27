@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicApp", "MusicApp\MusicApp.csproj", "{8C9DF2EE-3F0F-4004-A6B5-278FF83D56DF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{62525BB5-7B62-4493-86B6-0C6FDD5C3DB5} = {62525BB5-7B62-4493-86B6-0C6FDD5C3DB5}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestMusic", "TestMusic\TestMusic.csproj", "{CA0C77A3-5ADB-4412-A445-3B7AC333ACD0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D1A6A120-D795-4B65-9AE2-3627089748A1} = {D1A6A120-D795-4B65-9AE2-3627089748A1}
+		{62525BB5-7B62-4493-86B6-0C6FDD5C3DB5} = {62525BB5-7B62-4493-86B6-0C6FDD5C3DB5}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Helpers", "Helpers\Helpers.csproj", "{62525BB5-7B62-4493-86B6-0C6FDD5C3DB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LivingDocumentation", "LivingDocumentation", "{F3801CFB-864C-4F6E-B9B9-64F8D330DD90}"
+	ProjectSection(SolutionItems) = preProject
+		MusicianDataStructure.json = MusicianDataStructure.json
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlMusic", "BlMusic\BlMusic.csproj", "{D1A6A120-D795-4B65-9AE2-3627089748A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C9DF2EE-3F0F-4004-A6B5-278FF83D56DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9DF2EE-3F0F-4004-A6B5-278FF83D56DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C9DF2EE-3F0F-4004-A6B5-278FF83D56DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C9DF2EE-3F0F-4004-A6B5-278FF83D56DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA0C77A3-5ADB-4412-A445-3B7AC333ACD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0C77A3-5ADB-4412-A445-3B7AC333ACD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0C77A3-5ADB-4412-A445-3B7AC333ACD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0C77A3-5ADB-4412-A445-3B7AC333ACD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62525BB5-7B62-4493-86B6-0C6FDD5C3DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62525BB5-7B62-4493-86B6-0C6FDD5C3DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62525BB5-7B62-4493-86B6-0C6FDD5C3DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62525BB5-7B62-4493-86B6-0C6FDD5C3DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1A6A120-D795-4B65-9AE2-3627089748A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A6A120-D795-4B65-9AE2-3627089748A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A6A120-D795-4B65-9AE2-3627089748A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A6A120-D795-4B65-9AE2-3627089748A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44080530-193F-4451-8D72-4B31B44A17E9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Musician\DALEFCore\bin\Debug\netcoreapp2.0\DALEFCore.deps.json
+C:\Users\Diego\Desktop\Musician\DALEFCore\bin\Debug\netcoreapp2.0\DALEFCore.dll
+C:\Users\Diego\Desktop\Musician\DALEFCore\obj\Debug\netcoreapp2.0\DALEFCore.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Musician\DALEFCore\obj\Debug\netcoreapp2.0\DALEFCore.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Musician\DALEFCore\obj\Debug\netcoreapp2.0\DALEFCore.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Musician\DALEFCore\obj\Debug\netcoreapp2.0\DALEFCore.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Musician\DALEFCore\bin\Debug\netcoreapp2.0\DALEFCore.pdb
+C:\Users\Diego\Desktop\Musician\DALEFCore\obj\Debug\netcoreapp2.0\DALEFCore.dll
+C:\Users\Diego\Desktop\Musician\DALEFCore\obj\Debug\netcoreapp2.0\DALEFCore.pdb
+C:\Users\Diego\Desktop\Musician\DALEFCore\bin\Debug\netcoreapp2.0\BlMusic.dll
+C:\Users\Diego\Desktop\Musician\DALEFCore\bin\Debug\netcoreapp2.0\Helpers.dll
+C:\Users\Diego\Desktop\Musician\DALEFCore\bin\Debug\netcoreapp2.0\MusicApp.dll
+C:\Users\Diego\Desktop\Musician\DALEFCore\bin\Debug\netcoreapp2.0\MusicApp.pdb
+C:\Users\Diego\Desktop\Musician\DALEFCore\bin\Debug\netcoreapp2.0\BlMusic.pdb
+C:\Users\Diego\Desktop\Musician\DALEFCore\bin\Debug\netcoreapp2.0\Helpers.pdb
